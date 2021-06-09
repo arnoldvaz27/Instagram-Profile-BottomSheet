@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="more">More</string>
+    <string name="adding">Adding</string>
+    <string name="create_new">Create New</string>
+    <string name="post">Post</string>
+    <string name="reel">Reel</string>
+    <string name="stories">Stories</string>
+    <string name="highlight">Highlight</string>
+    <string name="video">Video</string>
+    <string name="none">None</string>
+    <string name="guide">Guide</string>
+</resources>
