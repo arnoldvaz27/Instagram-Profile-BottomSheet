@@ -1,4 +1,4 @@
-package com.example.differentandroidcodes;
+package com.example.instagrambottomsheetui;
 
 import org.junit.Test;
 
