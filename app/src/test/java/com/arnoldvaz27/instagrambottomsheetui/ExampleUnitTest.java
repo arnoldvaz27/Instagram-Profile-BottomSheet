@@ -1,4 +1,4 @@
-package com.example.instagrambottomsheetui;
+package com.arnoldvaz27.instagrambottomsheetui;
 
 import org.junit.Test;
 
